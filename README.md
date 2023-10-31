@@ -1,6 +1,6 @@
 <div align="center">
 <h3>📚 Reject</h3>
-<strong><a href="https://rebelofdeath.github.io/reject/editor">Editor</a> | <a href="https://github.com/RebelOfDeath/reject/wiki">Get started</a> | <a href="https://github.com/RebelOfDeath/reject">Source</a> | by <a href="https://github.com/Efnilite">Efnilite</a> & <a href="https://github.com/RebelOfDeath">RebelOfDeath</a> </strong>
+<strong><a href="https://reject.efnilite.dev">Editor</a> | <a href="https://github.com/RebelOfDeath/reject/wiki">Get started</a> | <a href="https://github.com/RebelOfDeath/reject">Source</a> | by <a href="https://github.com/Efnilite">Efnilite</a> & <a href="https://github.com/RebelOfDeath">RebelOfDeath</a> </strong>
 <br><br>
 </div>
 
@@ -38,4 +38,4 @@ Building the project requires you to have [Rollup](https://rollupjs.org/introduc
 rollup --config rollup.config.js
 ```
 
-After performing this command, you can open editor.html, and you're done!
+After performing this command, you can open index.html, and you're done!
